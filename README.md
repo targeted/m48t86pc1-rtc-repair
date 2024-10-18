@@ -1,12 +1,14 @@
 # M48T86PC1 RTC chip battery repair
 
-How to repair the M48T86PC1 RTC chip and attach a CR2032 coin battery holder to it.
+How to repair an M48T86PC1 RTC chip by attaching an external CR2032 coin battery to it.
 
 STM [M48T86PC1](https://www.alldatasheet.com/datasheet-pdf/pdf/22989/STMICROELECTRONICS/M48T86PC1.html) is a real-time clock package,
 found in retro PC motherboards. It is similar in function to well-known DALLAS 12887 et al. As such, it contains a lithium battery,
 which loses power after some 10 years and the motherboard stops working properly.
 
-I attempted to repair one such chip by following the instructions for DALLAS 12887 (many around, see [this](https://www.youtube.com/watch?v=NdlSfqto_0o) for example)
+One way of repairing RTC chips is to drill the case and connect an external coin battery instead of the empty internal one.
+
+I attempted to repair one M48T86PC1 by following the instructions for DALLAS 12887 (many around, see [this](https://www.youtube.com/watch?v=NdlSfqto_0o) for example)
 but it turned out that the battery location inside is different, and before I knew it, I drilled the entire casing away and destroyed the chip in the process.
 But the second time I knew where to drill and solder and here I share the step-by-step instructions. 
 
