@@ -26,11 +26,12 @@ Therefore there is a difference in where the holes must be drilled compared to D
 
 ![image](https://github.com/user-attachments/assets/e1832cea-2ec1-4295-aaea-9a4095b2911d)
 
-and here is the close up diagram of where to drill:
+and here is the detailed diagram of where to drill:
 
 ![image](https://github.com/user-attachments/assets/c5843b6b-4252-4f7c-8e15-0ebcb38aceb3)
 
-Note that you need to drill two holes, one against the ground (-) connector pin on the left, and one against the positive (+) battery connector pin on the right.
+Note that you need to drill two holes, one against the ground (-) connector pin on the left, and one against the positive (+) battery connector pin on the right,
+and also that the connection between the + solder point and the battery + must be broken.
 
 ## Practice
 
