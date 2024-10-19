@@ -16,7 +16,7 @@ But the second time I knew where to drill and solder and here I share the step-b
 
 If you decide to follow this manual, you do it on your own risk. I'm not responsible for any damages or consequences.
 
-## Theoretical background
+## Theory
 
 The internal lithium battery inside M48T86PC1 is located to one side of the case, with connecting pins stretching outwards to the side, like so:
 
@@ -32,7 +32,7 @@ and here is the close up diagram of where to drill:
 
 Note that you need to drill two holes, one against the ground (-) connector pin on the left, and one against the positive (+) battery connector pin on the right.
 
-## Practical excercise
+## Practice
 
 The initial battery view:
 
